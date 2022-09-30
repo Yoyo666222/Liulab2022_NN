@@ -1,0 +1,2 @@
+This folder contained codes for extracting motifs using seqNMF method.
+The main function are from paper 'Unsupervised discovery of temporal sequences in high-dimensional datasets, with applications to neuroscience' published on eLife in 2019.
